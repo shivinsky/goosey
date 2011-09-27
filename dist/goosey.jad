@@ -1,0 +1,9 @@
+MIDlet-1: Goosey, , goosey.Goosey
+MIDlet-Jar-Size: 268673
+MIDlet-Jar-URL: goosey.jar
+MIDlet-Name: goosey
+MIDlet-Touch-Support: True
+MIDlet-Vendor: Qu1nt
+MIDlet-Version: 0.0.63
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

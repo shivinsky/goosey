@@ -1,0 +1,7 @@
+MIDlet-1: Goosey, , goosey.Goosey
+MIDlet-Vendor: Qu1nt
+MIDlet-Name: goosey
+MIDlet-Touch-Support: True
+MIDlet-Version: 0.0.63
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
